@@ -1,0 +1,19 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/detail/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#666",
+    "navigationBarTitleText": "github博客",
+    "navigationBarTextStyle":"light"
+  },
+  "config": {
+  	"server": "https://api.getweapp.com/vendor/github",
+  	"github": {
+  		"user": "eyasliu",
+  		"repo": "blog"
+  	}
+  }
+}
